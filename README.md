@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GlassyYang
-- 👀 I’m interested in DNS, web application development(both front end and back end).
+- 👋 Hi, I’m @GlassyYang, a postgraduate of Harbin Institute of Technology, major in cyberspace Security.
+- 👀 I’m interested in DNS, web application development(both in front-end and back end).
 <!---
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on ...
